@@ -8,14 +8,17 @@ class DataLoader():
 	def __init__(self, jp=True):
 		if jp: 
 			self._init_jp()
-			return
-		self.story = self.load_json("Story")
-		self.story_talk = self.load_json("StoryTalk")
-		self.story_character = self.load_json("StoryCharacter")
+		else:
+			self._init_en()
 
-		self.area = self.load_json("Area")
-		self.episode = self.load_json("Episode")
-		self.event = self.load_json("Event")
+	def _init_en(self):
+		self.story = self.load_en_json("Story")
+		self.story_talk = self.load_en_json("StoryTalk")
+		self.story_character = self.load_en_json("StoryCharacter")
+
+		self.area = self.load_en_json("Area")
+		self.episode = self.load_en_json("Episode")
+		self.event = self.load_en_json("Event")
 
 	def _init_jp(self):
 		self.story = self.load_jp_json("story")
@@ -26,14 +29,14 @@ class DataLoader():
 		self.episode = self.load_jp_json("episode")
 		self.event = self.load_jp_json("event")
 
-	def load_json(self, filename):
+	def load_en_json(self, filename):
 		file_path = os.path.join(self.PATH, "EN", filename + ".json")
 		with open(file_path) as f:
-			arr = json.load(f)
-		return (arr)
+			data = json.load(f)
+		return (data)
 
 	def load_jp_json(self, filename):
 		file_path = os.path.join(self.PATH, "master_json", filename + ".json")
 		with open(file_path) as f:
-			arr = json.load(f)["DataList"]
-		return (arr)
+			data = json.load(f)["DataList"]
+		return (data)
