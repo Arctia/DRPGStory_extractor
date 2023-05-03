@@ -1,0 +1,2984 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4325762821986573909
+    },
+    "m_Name": "episode",
+    "DataList": [
+        {
+            "id": 1,
+            "episode_type": 1,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第1話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 2,
+            "episode_type": 1,
+            "no": 2,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第2話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 3,
+            "episode_type": 1,
+            "no": 3,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第3話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 4,
+            "episode_type": 1,
+            "no": 4,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第4話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 5,
+            "episode_type": 1,
+            "no": 5,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第5話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 6,
+            "episode_type": 1,
+            "no": 6,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第6話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 7,
+            "episode_type": 1,
+            "no": 7,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第7話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 8,
+            "episode_type": 1,
+            "no": 8,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第8話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 9,
+            "episode_type": 1,
+            "no": 9,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第9話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10,
+            "episode_type": 1,
+            "no": 10,
+            "series": 0,
+            "m_main_story_category_id": 11,
+            "name": "メインストーリー第10話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11,
+            "episode_type": 1,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部1話",
+            "open_at": "2020-06-29 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 12,
+            "episode_type": 1,
+            "no": 2,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部2話",
+            "open_at": "2020-08-13 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 13,
+            "episode_type": 1,
+            "no": 3,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部3話",
+            "open_at": "2020-10-07 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 14,
+            "episode_type": 1,
+            "no": 4,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部4話",
+            "open_at": "2020-11-19 00:00:00",
+            "close_at": ""
+        },
+        {
+            "id": 15,
+            "episode_type": 1,
+            "no": 5,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部5話",
+            "open_at": "2021-01-21 00:00:00",
+            "close_at": ""
+        },
+        {
+            "id": 16,
+            "episode_type": 1,
+            "no": 6,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部6話",
+            "open_at": "2021-04-07 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 17,
+            "episode_type": 1,
+            "no": 7,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部7話",
+            "open_at": "2021-10-05 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 18,
+            "episode_type": 1,
+            "no": 8,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部8話",
+            "open_at": "2022-06-07 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 501,
+            "episode_type": 3,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "暗黒ゲート",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 601,
+            "episode_type": 7,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "深淵ゲート",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 901,
+            "episode_type": 2,
+            "no": 1,
+            "series": 1,
+            "m_main_story_category_id": 0,
+            "name": "D1ダイジェスト版",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 904,
+            "episode_type": 2,
+            "no": 4,
+            "series": 4,
+            "m_main_story_category_id": 0,
+            "name": "D4ダイジェスト版",
+            "open_at": "2020-11-04 13:05:00",
+            "close_at": ""
+        },
+        {
+            "id": 906,
+            "episode_type": 2,
+            "no": 2,
+            "series": 6,
+            "m_main_story_category_id": 0,
+            "name": "D5ダイジェスト版",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 907,
+            "episode_type": 2,
+            "no": 7,
+            "series": 7,
+            "m_main_story_category_id": 0,
+            "name": "D6ダイジェスト版",
+            "open_at": "2020-11-11 12:00:00",
+            "close_at": ""
+        },
+        {
+            "id": 2001,
+            "episode_type": 1,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 12,
+            "name": "1部外伝第1話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 2002,
+            "episode_type": 1,
+            "no": 2,
+            "series": 0,
+            "m_main_story_category_id": 12,
+            "name": "1部外伝第2話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 2003,
+            "episode_type": 1,
+            "no": 3,
+            "series": 0,
+            "m_main_story_category_id": 12,
+            "name": "1部外伝第3話",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10011,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔法で彩るホーリーナイト",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10021,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "降臨！魔神エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10041,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "敵は鏡餅！？雪しらべの餅祭り",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10061,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "緑のアニキ七変化！？",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10081,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "生誕記念スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10101,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造プリニー",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10121,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "開催！　魔界ビューティーコレクション",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10141,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "降臨！ピュアフロン",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10151,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラズベリル先生の禍害授業",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10171,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "レイドバトル1弾",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10181,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "大反省祭スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10201,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造プリニー",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10211,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔法少女ピュアピュアーズ☆",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10241,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "レイドバトル1弾",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10251,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ニジレンジャーからの挑戦状！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10261,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "猫カフェクライシス",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10271,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "降臨！ブラッディス",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10281,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造妖精族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10291,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造屍族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10301,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造粘泥族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10311,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10341,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "降臨！シスターアルティナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10351,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "邪悪学園体育災！！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10361,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10381,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイア・ウォーズ（仮）",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10411,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "夏だ！　海だ！　恐怖の海開き！？",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10421,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "レイドバトル1弾復刻",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10431,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "七夕記念スペシャルバトル",
+            "open_at": "2020-07-07 00:00:00",
+            "close_at": "2020-07-21 23:59:59"
+        },
+        {
+            "id": 10451,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "降臨！覚醒キリア",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10471,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "進め宝島！　魔界のトレジャーハント！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10501,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "レイド2弾",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10511,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "第2部 第2話 開始記念スペシャルバトル",
+            "open_at": "2020-08-13 13:05:00",
+            "close_at": "2020-08-27 23:59:59"
+        },
+        {
+            "id": 10531,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造夜魔族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10541,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "あがれ！　夜空に輝くイワシ花火",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10551,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "レイド2弾",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10581,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界に誘われた者たち",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10591,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "七つの大罪 コラボ記念 スペシャルバトル",
+            "open_at": "2020-09-17 10:05:00",
+            "close_at": "2020-10-07 12:59:59"
+        },
+        {
+            "id": 10601,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "大罪コラボレイド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10611,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "Ｍａｔｔと不思議な鏡",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10621,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "スペシャルバトル feat. Matt",
+            "open_at": "2020-10-08 12:00:00",
+            "close_at": "2020-10-14 23:59:59"
+        },
+        {
+            "id": 10651,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "マオXENO復刻レイド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10661,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ゾンビパニック・ハロウィン",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10681,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造魔獣族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10691,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラハールレイド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10721,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "シシリーXENOレイド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10731,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "絢爛豪華なメモリアルパーティー",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10741,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "1stAnniversary大感謝祭スペシャルバトルVol.1",
+            "open_at": "2020-11-19 00:00:00",
+            "close_at": "2020-11-28 23:59:59"
+        },
+        {
+            "id": 10761,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "1stAnniversary大感謝祭スペシャルバトルVol.2",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10771,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造珍茸族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10781,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10791,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "恐怖のブラッククリスマス",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10811,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "キリディアレイド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10821,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "絶対的中！　吉凶占うおみくじ狐",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10831,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造猫娘族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10841,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "降臨！プリニガーX",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10851,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界正月スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10881,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10891,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "デスコXENO復刻",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10901,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイア６からの挑戦状！？",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10911,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "生誕祭スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10931,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10941,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造寝子猫族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10951,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "Ｒｅ：ゼロから始める魔界生活",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 10991,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "Ｒｅ：ゼロから始める異世界生活 コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11001,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "リゼロ鬼化レム",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11021,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11031,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "燃やせ！聖女たちとワラニンギョウ祭り",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11041,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔王プリエ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11051,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラ・ピュセル コラボ記念スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11071,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラ・ピュセルコラボ記念スペシャルバトルEXTRA\t\t\t\t",
+            "open_at": "2021-04-03 00:00:00",
+            "close_at": "2021-04-07 12:59:59"
+        },
+        {
+            "id": 11081,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11091,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11101,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイア６からの挑戦状！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11121,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "マオXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11131,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11141,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11151,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "1.5th Anniversary スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11171,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "激闘！ＸＥＮＯラッシュ！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11172,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "激闘！ＸＥＮＯラッシュ！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11191,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エミーゼルXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11201,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11211,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "異世界からの来訪者スペシャルバトルEXTRA",
+            "open_at": "2021-05-30 00:00:00",
+            "close_at": "2021-06-03 23:59:59"
+        },
+        {
+            "id": 11221,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造九尾族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11231,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超大型プリニー",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11241,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイアRPG×進撃の巨人コラボ記念スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11251,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11261,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "恋愛ラボの集客♥作戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11262,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "恋愛ラボの集客♥作戦(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11281,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11301,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11311,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "デスコXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11321,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "謎の海人と守護神伝説",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11322,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "謎の海人と守護神伝説(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11331,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔夏のスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11351,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "水着プリニー",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11361,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔夏のスペシャルバトル EXTRA",
+            "open_at": "2021-07-29 00:00:00",
+            "close_at": "2021-08-02 23:59:59"
+        },
+        {
+            "id": 11371,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 覚醒ロザリンド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11381,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11401,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11421,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダムＲＰＧ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11422,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダムＲＰＧ(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11431,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "邪神ヴァルヴォルガ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11451,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダム コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11461,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダム コラボ記念 スペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11471,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11481,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 世紀末魔王アサギ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11491,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界に誘われた者たち",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11492,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界に誘われた者たち(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11501,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11511,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディアンヌ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11531,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "七つの大罪コラボスペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11541,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "「避暑地、売ります」事件",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11542,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "「避暑地、売ります」事件(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11561,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "影丸",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11581,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11591,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11601,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔法少女まどかマギカ コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11611,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 シシリーXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11621,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "爆誕！！　悪魔法少女ピュア☆マギカ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11622,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "爆誕！！　悪魔法少女ピュア☆マギカ(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11651,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "プリべえ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11661,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "まどマギコラボスペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11721,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造死告族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11731,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11741,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11771,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 覚醒ロザリンド",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11781,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "祝２０００周年！？",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11782,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "祝２０００周年！？(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11791,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "2nd Anniversary スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11821,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "未来戦士プレネール",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11841,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "進め！　魔界一武闘会への道！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11842,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "進め！　魔界一武闘会への道！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11861,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "2nd Anniversary スペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11871,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11881,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 雷帝ラハール",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11891,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "紅い甲冑！？　おにぎり武者推参！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11892,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "紅い甲冑！？　おにぎり武者推参！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11901,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11911,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "クリスマス スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 11951,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "サンタ虎千代",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12011,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラブと煩悩！？寅色の初詣！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12012,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラブと煩悩！？寅色の初詣！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12061,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "討伐戦改造妖騎士族",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12071,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界正月 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12091,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "サクヤ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12101,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 世紀末魔王アサギ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12121,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12131,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "燃やせ！聖女たちとワラニンギョウ祭り",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12132,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "燃やせ！聖女たちとワラニンギョウ祭り(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12141,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12161,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "復刻 ラ・ピュセル　光の聖女伝説 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12201,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔王プリエ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12211,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "復刻 ラ・ピュセル　光の聖女伝説 スペシャルバトル EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12221,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイア・ウォーズ（仮）",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12222,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイア・ウォーズ（仮）(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12231,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 暴禍なるアデル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12241,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12251,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12281,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "襲来！　極悪魔女と伝説の魔神！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12282,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "襲来！　極悪魔女と伝説の魔神！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12301,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔女と百騎兵　コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12331,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "メタリカ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12391,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔女と百騎兵 コラボ記念スペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12401,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 雷帝ラハール",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12411,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "大反省祭 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12441,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "激突！　極限ＸＥＮＯバトル！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12442,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "激突！　極限ＸＥＮＯバトル！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12451,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12461,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12511,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "大魔拳リーゼロッタ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12531,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 超魔王エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12561,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12571,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超魔流の荒行",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12581,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "狂乱の合同学園災！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12582,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "狂乱の合同学園災！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12601,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "死闘！魔界一武闘会",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12602,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "死闘！魔界一武闘会(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12641,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 シシリーXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12651,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "大怪獣フロン",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12661,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界GW スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12761,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12771,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "2.5th Anniversary スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12791,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "アサギからの招待状！？",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12792,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "アサギからの招待状！？(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12841,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "プリニーアサギ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12911,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 フーカXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12931,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12971,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ビューティー花嫁グランプリ！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12972,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ビューティー花嫁グランプリ！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 12981,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "礼装プリニー",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13061,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13071,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 暴禍なるアデル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13081,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "謎の海人と守護神伝説",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13082,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "謎の海人と守護神伝説(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13091,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "水着エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13151,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "聖水着伝説",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13152,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "聖水着伝説(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13181,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔夏のスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13231,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "吸血鬼ヴァルと夏休み",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13232,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "吸血鬼ヴァルと夏休み(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13241,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13251,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 暴君ヴァルバトーゼ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13301,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "超大型プリニー(青)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13341,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "復刻 進撃の巨人コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13381,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13401,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 超魔王エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13481,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "奇怪な少女と悪夢の卍界博覧会",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13482,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "奇怪な少女と悪夢の卍界博覧会(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13501,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔神ハナコ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13521,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界SWスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13561,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13571,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 聖女エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13631,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダムＲＰＧ２",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13632,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダムＲＰＧ２(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13691,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "邪神ヴァルヴォルガ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13701,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダム コラボ第2弾スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13711,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ファントム・キングダム コラボ第2弾スペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13721,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13751,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "プレネールクエスト",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13752,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "プレネールクエスト(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13801,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 フーカXENO",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13821,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "3rd Anniversaryスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13881,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "闇鮫魔王プレネール",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13931,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "3rd Anniversary スペシャルバトルEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13961,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 邪悪新生マオ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 13971,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14041,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "黒サンタだらけのクリスマス",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14042,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "黒サンタだらけのクリスマス(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14051,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "サンタ日本一ちゃん",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14111,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 暴君ヴァルバトーゼ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14121,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14131,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "どっちのお正月ショー！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14132,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "どっちのお正月ショー！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14181,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "年末年始スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14191,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "巫女メロディア",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14211,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "襲来！　極悪魔女と伝説の魔神！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14212,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "襲来！　極悪魔女と伝説の魔神！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14241,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "復刻 魔女と百騎兵コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14261,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "メタリカ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14291,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ソウル・ブレイブ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14292,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ソウル・ブレイブ(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14331,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔王アルティナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14351,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "日本一ソフトウェア・歴代SRPGコラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14361,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14381,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 ゼタ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14421,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "決戦！ＸＥＮＯクライマックス！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14422,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "決戦！ＸＥＮＯクライマックス！(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14461,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "獄落のサルバトーレ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14481,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 聖女エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14501,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "決戦！ＸＥＮＯクライマックス！ スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14511,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14551,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "参戦！魔界戦記ディスガイア７",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14552,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "参戦！魔界戦記ディスガイア７(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14581,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "フジ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14601,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔界戦記ディスガイア７コラボ記念 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14611,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 邪悪新生マオ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14641,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14651,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "異世界格闘技戦！ＶＲファイターズ！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 14652,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "異世界格闘技戦！ＶＲファイターズ！EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20011,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔法で彩るホーリーナイト(追想）",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20041,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "敵は鏡餅！？雪しらべの餅祭り（追想）",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20061,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "緑のアニキ七変化！？（追想）",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20121,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "開催！　魔界ビューティーコレクション(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20151,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ラズベリル先生の禍害授業(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20211,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔法少女ピュアピュアーズ☆(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20261,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "猫カフェクライシス(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20351,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "邪悪学園体育災！！(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20411,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "夏だ！　海だ！　恐怖の海開き！？(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20471,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "進め宝島！　魔界のトレジャーハント！(追想)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 20541,
+            "episode_type": 5,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "あがれ！　夜空に輝くイワシ花火(追想)",
+            "open_at": "",
+            "close_at": ""
+        }
+    ]
+}

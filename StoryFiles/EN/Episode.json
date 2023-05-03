@@ -1,0 +1,2072 @@
+[
+  {
+    "id": 1,
+    "episode_type": 1,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 2,
+    "episode_type": 1,
+    "no": 2,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 3,
+    "episode_type": 1,
+    "no": 3,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 3",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 4,
+    "episode_type": 1,
+    "no": 4,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 4",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 5,
+    "episode_type": 1,
+    "no": 5,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 5",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 6,
+    "episode_type": 1,
+    "no": 6,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 6",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 7,
+    "episode_type": 1,
+    "no": 7,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 7",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 8,
+    "episode_type": 1,
+    "no": 8,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 8",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 9,
+    "episode_type": 1,
+    "no": 9,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 9",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10,
+    "episode_type": 1,
+    "no": 10,
+    "series": 0,
+    "m_main_story_category_id": 11,
+    "name": "Main Story Arc1 EP 10",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11,
+    "episode_type": 1,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 1",
+    "open_at": "2020-06-29 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 12,
+    "episode_type": 1,
+    "no": 2,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 2",
+    "open_at": "2020-08-13 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 13,
+    "episode_type": 1,
+    "no": 3,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 3",
+    "open_at": "2020-10-07 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 14,
+    "episode_type": 1,
+    "no": 4,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 4",
+    "open_at": "2020-11-19 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 15,
+    "episode_type": 1,
+    "no": 5,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 5",
+    "open_at": "2021-01-21 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 16,
+    "episode_type": 1,
+    "no": 6,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 6",
+    "open_at": "2021-04-07 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 17,
+    "episode_type": 1,
+    "no": 7,
+    "series": 0,
+    "m_main_story_category_id": 21,
+    "name": "Main Story Arc 2 EP 7",
+    "open_at": "2022-09-08 00:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 501,
+    "episode_type": 3,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Dark Gates",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 601,
+    "episode_type": 7,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Abyss Gate",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 901,
+    "episode_type": 2,
+    "no": 1,
+    "series": 1,
+    "m_main_story_category_id": 0,
+    "name": "D1 Digest",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 904,
+    "episode_type": 2,
+    "no": 4,
+    "series": 4,
+    "m_main_story_category_id": 0,
+    "name": "D4 Digest",
+    "open_at": "2020-11-04 13:05:00",
+    "close_at": ""
+  },
+  {
+    "id": 906,
+    "episode_type": 2,
+    "no": 2,
+    "series": 6,
+    "m_main_story_category_id": 0,
+    "name": "D5 Digest",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 907,
+    "episode_type": 2,
+    "no": 7,
+    "series": 7,
+    "m_main_story_category_id": 0,
+    "name": "D6 Digest",
+    "open_at": "2020-11-11 12:00:00",
+    "close_at": ""
+  },
+  {
+    "id": 2001,
+    "episode_type": 1,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 12,
+    "name": "Arc 1 Anecdote EP 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 2002,
+    "episode_type": 1,
+    "no": 2,
+    "series": 0,
+    "m_main_story_category_id": 12,
+    "name": "Arc 1 Anecdote EP 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 2003,
+    "episode_type": 1,
+    "no": 3,
+    "series": 0,
+    "m_main_story_category_id": 12,
+    "name": "Arc 1 Anecdote EP 3",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magical Holy Night",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10021,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Majin Etna",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Snow Melody Rice Cake Festival",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Metamorphosis of Green Bro",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10081,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10101,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Modified Prinny Conquest Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Nether Beauty Pageant",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Pure Flonne",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10151,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ms. Raspberyl\u0027s Course on Chaos",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10171,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10181,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Reflection Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10201,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Modified Prinny Conquest Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magic Cutie Purity Party \u2606",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 1",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "A Challenge from the Prism Rangers!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Cat Cafe Crisis",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10271,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Bloodis",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fairy, Conquest Version",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10291,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Undead, Conquest Version",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sludge, Conquest Version",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10311,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10341,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Sister Artina",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10351,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fest-evil of Sport!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea Wars (Tentative)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10411,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer! Sea! Scary Seaside Resort Opening?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10421,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 1 - Reissue",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10431,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Qixi Memorial Special Battle",
+    "open_at": "2020-07-07 00:00:00",
+    "close_at": "2020-07-21 23:59:59"
+  },
+  {
+    "id": 10451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Awakened Killia",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10471,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Treasure Island! Treasure Hunting!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Arc 2 EP 2 Special Battle",
+    "open_at": "2020-08-13 13:05:00",
+    "close_at": "2020-08-27 23:59:59"
+  },
+  {
+    "id": 10531,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Succubi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10541,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sparkle! Sardine Fireworks",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10551,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Raid Battle Round 2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors to the Netherworld",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10591,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Seven Deadly Sins Collab Special Battle",
+    "open_at": "2020-09-17 10:05:00",
+    "close_at": "2020-10-07 12:59:59"
+  },
+  {
+    "id": 10601,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Seven Deadly Sins Collab Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10611,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Matt and the Magic Mirror",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10621,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Special Battle - feat. Matt",
+    "open_at": "2020-10-08 12:00:00",
+    "close_at": "2020-10-14 23:59:59"
+  },
+  {
+    "id": 10651,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mao XENO Reissue Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Zombie Panic - Halloween",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10681,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Gargoyles",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10691,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Laharl Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10721,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sicily XENO Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10731,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spectacular Celebration Party",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10741,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1st Anniversary Fest Special Battle Vol.1",
+    "open_at": "2020-11-19 00:00:00",
+    "close_at": "2020-11-28 23:59:59"
+  },
+  {
+    "id": 10761,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1st Anniversary Fest Special Battle Vol.2",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Shrooms",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10781,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10791,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Frightening Dark Christmas",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10811,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Killidia Raid",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Bullseye! Divining Kyuubi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10831,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Felynns",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10841,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Advent! Pringer X",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10851,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Netherworld New Year Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10891,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Desco XENO Reissue",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10901,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea 6 Challenge?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10911,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Birthday Celebration Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10931,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10941,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Slumber Cats",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10951,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Re:Zero - Starting Life in the Netherworld",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 10991,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Re:Zero - Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11001,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Re:Zero Demon Rem",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11021,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11031,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Burn! Straw Doll Festival With The Saintess",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11041,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Overlord Priere",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11051,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "La Pucelle Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11071,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "La Pucelle Collab Special Battle EXTRA\t\t\t\t",
+    "open_at": "2021-04-03 00:00:00",
+    "close_at": "2021-04-07 12:59:59"
+  },
+  {
+    "id": 11081,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11091,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11101,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea 6 Challenge!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mao XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11151,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11171,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fierce Fight: XENO Rush!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11172,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fierce Fight: XENO Rush! (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11191,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Emizel XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11201,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors From Another World Special Battle EXTRA",
+    "open_at": "2021-05-30 00:00:00",
+    "close_at": "2021-06-03 23:59:59"
+  },
+  {
+    "id": 11221,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Eliminating Transformed Nine-Tails",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11231,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Colossal Prinny",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Attack on Titan Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love Laboratory Advertising \u2665 Plan",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11262,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love Laboratory Advertising \u2665 Plan (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11311,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Desco XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11321,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mystery Fisherman and Patron Saint",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11322,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Mystery Fisherman and Patron Saint (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11331,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demonic Summer Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11351,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Swimsuit Prinny",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11361,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Demonic Summer Special Battle EXTRA",
+    "open_at": "2021-07-29 00:00:00",
+    "close_at": "2021-08-02 23:59:59"
+  },
+  {
+    "id": 11371,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Awakened Rozalin",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11381,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11401,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11421,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Makai Kingdom RPG",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11422,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Makai Kingdom RPG (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11431,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Dark Lord Valvoga",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Makai Kingdom Collab Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11461,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Makai Kingdom Collab Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11471,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11481,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Overlord Asagi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11491,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors to the Netherworld",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11492,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Visitors to the Netherworld (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11501,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11511,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Diane",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11531,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Seven Deadly Sins Collab Special Battle EXTRA",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11541,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "\u0022Selling the Summer Resort\u0022 Incident",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11542,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "\u0022Selling the Summer Resort\u0022 (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Kagemaru",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11581,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11591,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11601,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Collab Celebration Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11611,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space Sicily XENO",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11621,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Debut!! Demonic Magi Pure\u2606Magica",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11622,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Debut!! Demonic Magi Pure\u2606Magica (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11651,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Pribey",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Madoka Magica Collab Special Battle Extra",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11721,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Conquest Battle The Modified Death",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11731,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11741,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11771,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Awakened Rozalin",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11781,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Commemorating 2000th Anniversary?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11782,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Commemorating 2000th Anniversary?! (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11791,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1.5th Anniversary Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11821,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Future Warrior Pleinair",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11841,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Go! The N.F.C. Is Mine!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11842,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Go! The N.F.C. Is Mine! (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11861,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "1.5th Anniversary Special Battle Extra",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11871,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11881,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space Thunderlord Laharl",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11891,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Red Armor!? Rice Ball Samurai Debuts!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11892,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Red Armor!? Rice Ball Samurai Debuts! (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11901,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11911,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Christmas Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 11951,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Santa Torachiyo",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12011,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love and Trouble! ? Tiger\u0027s Shrine Visit!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12012,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love and Trouble! ? Tiger\u0027s Shrine Visit! (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12061,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Conquest Battle The Modified Living Armor",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12071,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Netherworld New Year Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12091,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sakuya",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12101,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space: Overlord Asagi",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12121,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12131,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Burn! Straw Doll Festival With The Saintess",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12132,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Straw Doll Festival with the Saintess (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12141,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12161,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Rerun La Pucelle Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12201,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Overlord Priere",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12211,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Rerun La Pucelle Special Battle Extra",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12221,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea Wars (Tentative)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12222,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Disgaea Wars (Tentative) (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12231,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space Calamity Adell",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12241,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12251,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12281,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Invasion! The Evil Witch and the Majin!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12282,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Invasion! The Evil Witch and the Majin! (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12301,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Collab Celebration Special Battle",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12331,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Metallia",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12391,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Collab Celebration Special Battle Extra",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12401,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Spar Space Thunderlord Laharl",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12451,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Defending Etna\u0027s Summer Resort",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 12461,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "U.D.T. Training",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18261,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love Laboratory Advertising \u2665 Plan",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18262,
+    "episode_type": 6,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Love Laboratory Advertising \u2665 Plan (Hidden)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 18661,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Zombie Panic - Halloween",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20011,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magical Holy Night (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20041,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Snow Melody Rice Cake Festival (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20061,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "The Metamorphosis of Green Bro (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20121,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Nether Beauty Pageant (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20151,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Ms. Raspberyl\u0027s Course on Chaos (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20211,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Magic Cutie Purity Party \u2606 (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20261,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Cat Cafe Crisis (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20351,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Fest-evil of Sport! (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20411,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Summer! Sea! Scary Seaside Resort Opening?!",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20471,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Treasure Island! Treasure Hunting! (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 20541,
+    "episode_type": 5,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Sparkle! Sardine Fireworks (Remembrance)",
+    "open_at": "",
+    "close_at": ""
+  },
+  {
+    "id": 181561,
+    "episode_type": 4,
+    "no": 1,
+    "series": 0,
+    "m_main_story_category_id": 0,
+    "name": "Kagemaru",
+    "open_at": "",
+    "close_at": ""
+  }
+]
