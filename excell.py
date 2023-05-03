@@ -190,9 +190,9 @@ class DialogueExtractor(object):
 
 	def start_cycle(self, tp='event'):
 		event_types = [1, 15]
-		story_type = self.db.event if tp == 'event' else self.db.episode 
+		story = self.db.event if tp == 'event' else self.db.episode 
 
-		for ep in story_type:
+		for ep in story:
 			if not ep['event_type'] in event_types: continue
 			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name']}"
 			if not self.ex.set_sheet(sheet_name): continue
