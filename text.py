@@ -1,6 +1,6 @@
 
 from dataloader import DataLoader
-import json, os
+import shutil, json, os
 
 def get_name(t):
 	options = ['chara1_name', 'chara2_name', 'chara3_name']
@@ -41,7 +41,7 @@ def write_story(db):
 
 def	write_events(db):
 	for ep in db.event:
-		event_types = [6] # [1, 15]
+		event_types = [1, 15]
 		if not ep['event_type'] in event_types: continue
 
 		ep_dir = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name'].replace(' ', '_')}"
@@ -77,9 +77,17 @@ def	write_events(db):
 		print(f"Ended: {ep['resource_name']}")
 
 def	write_raids(db):
+	done_raids = []
 	for ep in db.event:
-		event_types = [6] # [1, 15]
+		event_types = [6]
 		if not ep['event_type'] in event_types: continue
+
+		if ((ep['resource_name'][-1] == 'e') or
+			(ep['resource_name'][-1] == 'c') or
+			(ep['resource_name'] in done_raids)):
+			continue
+
+		done_raids.append(ep['resource_name'])
 
 		ep_dir = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name'].replace(' ', '_')}"
 		if not os.path.exists(ep_dir): os.mkdir(ep_dir)
@@ -107,8 +115,14 @@ def	write_raids(db):
 def	main():
 	db = DataLoader(jp = False)
 
-	base_path = "Diary/"
-	if not os.path.exists(base_path): os.mkdir(base_path)
+	# base_path = "DiaryStory/"
+	# base_path = "DiaryEvents/"
+	base_path = "DiaryRaids/"
+
+	if os.path.isdir(base_path):
+		shutil.rmtree(base_path)
+
+	os.mkdir(base_path)
 	os.chdir(base_path)
 
 	# write_story(db)
