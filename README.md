@@ -8,7 +8,6 @@ This code is designed to extract dialogue and text data from mobile games and or
 This code requires the following dependencies:
 
     deep_translator
-    dataloader
     openpyxl
     json
 
