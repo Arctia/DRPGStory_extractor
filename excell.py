@@ -30,10 +30,7 @@ class Excell():
 	message_gtc = 4 # google
 	message_mnc = 6 # manual
 
-	offset = 2
-	sz = 2
 	step = 1
-
 	row_pos = 2
 	story_number = 1
 	story_begin = 0
@@ -203,3 +200,4 @@ class DialogueExtractor(object):
 
 if __name__ == '__main__':
 	de = DialogueExtractor(file='japan.xlsx', jp=True)
+
