@@ -501,6 +501,13 @@
             "img_face": 6
         },
         {
+            "id": 1107,
+            "name": "【メイン】デスコ表情07",
+            "img_base": 11,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
             "id": 1201,
             "name": "【メイン】アデル表情01",
             "img_base": 12,
@@ -1066,6 +1073,20 @@
             "img_base": 21,
             "img_body": 4,
             "img_face": 0
+        },
+        {
+            "id": 2105,
+            "name": "【メイン】アルティナ表情05",
+            "img_base": 21,
+            "img_body": 1,
+            "img_face": 5
+        },
+        {
+            "id": 2106,
+            "name": "【メイン】アルティナ表情06",
+            "img_base": 21,
+            "img_body": 1,
+            "img_face": 6
         },
         {
             "id": 2201,
@@ -2956,6 +2977,13 @@
             "img_base": 112,
             "img_body": 7,
             "img_face": 0
+        },
+        {
+            "id": 11208,
+            "name": "【メイン2】ルーシー表情08",
+            "img_base": 112,
+            "img_body": 1,
+            "img_face": 8
         },
         {
             "id": 11301,
@@ -5321,6 +5349,13 @@
             "name": "【イベント】ナギ 表情04",
             "img_base": 202,
             "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 20205,
+            "name": "【イベント】ナギ 表情05",
+            "img_base": 202,
+            "img_body": 5,
             "img_face": 0
         },
         {
@@ -10794,6 +10829,251 @@
             "id": 43501,
             "name": "【イベント】キリア(ホログラフィック)",
             "img_base": 435,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 43601,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 43602,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 43603,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 43604,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 43605,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 43606,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 43607,
+            "name": "【イベント】オーラデスコ",
+            "img_base": 436,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 43701,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 43702,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 43703,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 43704,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 43705,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 43706,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 43707,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 43708,
+            "name": "【イベント】おにぎり探偵虎千代",
+            "img_base": 437,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 43801,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 43802,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 43803,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 43804,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 43805,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 43806,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 43807,
+            "name": "【イベント】魔探偵ラハールちゃん",
+            "img_base": 438,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 43901,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 43902,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 43903,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 43904,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 43905,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 43906,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 43907,
+            "name": "【イベント】超越アデル",
+            "img_base": 439,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 44001,
+            "name": "【イベント】アイリーン",
+            "img_base": 440,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44002,
+            "name": "【イベント】アイリーン",
+            "img_base": 440,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44003,
+            "name": "【イベント】アイリーン",
+            "img_base": 440,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44101,
+            "name": "【イベント】アイリーン倒れ",
+            "img_base": 441,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44102,
+            "name": "【イベント】アイリーン倒れ",
+            "img_base": 441,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44201,
+            "name": "【イベント】ディエス倒れ",
+            "img_base": 442,
             "img_body": 1,
             "img_face": 0
         },

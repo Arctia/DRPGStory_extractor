@@ -11,6 +11,7 @@ def unpack_all_assets(source_folder : str, destination_folder : str):
             env = UnityPy.load(file_path)
             for obj in env.objects:
                 if obj.type.name == "MonoBehaviour":
+                    data = obj.read()
                     if obj.serialized_type.nodes:
 
                         tree = obj.read_typetree()
@@ -24,6 +25,7 @@ def unpack_all_assets(source_folder : str, destination_folder : str):
                         fp = os.path.join(destination_folder, f"{data.name}.bin")
                         with open(fp, "wb") as f:
                             f.write(data.raw_data)
+                    print("[DONE  ]: ", data.name)
                     if obj.serialized_type.nodes:
                         tree = obj.read_typetree()
                         obj.save_typetree(tree)

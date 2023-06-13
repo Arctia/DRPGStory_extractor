@@ -3,7 +3,7 @@ from deep_translator import GoogleTranslator
 from dataloader import DataLoader
 import openpyxl
 import json
-import main
+#import main
 import time
 import os
 
@@ -149,10 +149,12 @@ class Excell():
 
 class DialogueExtractor(object):
 
-	def __init__(self, file='japan.xlsx', jp=True):
+	def __init__(self, file='japan.xlsx', jp=True, tp='event'):
 		self.db = DataLoader(jp=jp)
 		self.ex = Excell(file)
-		self.start_cycle()
+		
+		if tp != 'raid': self.start_cycle()
+		else: self.raids_start_cycle()
 
 	def	get_name(self, t):
 		options = ['chara1_name', 'chara2_name', 'chara3_name']
@@ -188,7 +190,6 @@ class DialogueExtractor(object):
 	def start_cycle(self, tp='event'):
 		event_types = [1, 15]
 		story = self.db.event if tp == 'event' else self.db.episode 
-
 		for ep in story:
 			if not ep['event_type'] in event_types: continue
 			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name']}"
@@ -198,6 +199,43 @@ class DialogueExtractor(object):
 
 		self.ex.save()
 
-if __name__ == '__main__':
-	de = DialogueExtractor(file='japan.xlsx', jp=True)
+	def raid_story_cycle(self, ep) -> None:
+		for story in self.db.story:
+			if story['id'] != ep['prologue_story_id'] and story['id'] != ep['ending_story_id']: continue
+			pre = 'prologe' if story['id'] == ep['prologue_story_id'] else 'ending'
+			st_name = f"{pre}: {story['title']}"
 
+			self.ex.write_story(st_name)
+			self.story_talk_cycle(story)
+			self.ex.row_pos += 1
+
+	def raids_start_cycle(self):
+		done_raids = []
+		story = self.db.event
+		for ep in story:
+			if not ep['event_type'] == 6: continue
+			if ((ep['resource_name'][-1] == 'e') or
+				(ep['resource_name'][-1] == 'c') or
+				(ep['resource_name'] in done_raids)):
+				continue
+
+			done_raids.append(ep['resource_name'])
+			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name'].replace(' ', '_')}"
+			if not self.ex.set_sheet(sheet_name): continue
+
+			self.raid_story_cycle(ep)
+			self.ex.save()
+		self.ex.save()
+
+# replace occurences in json
+class DialogueReverse():
+
+	def __init__(self):
+		pass
+
+
+if __name__ == '__main__':
+	# Extract Story Events
+	DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
+	# Extract Raids prologue-ending
+	DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
