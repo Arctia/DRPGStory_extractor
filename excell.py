@@ -225,7 +225,6 @@ class DialogueExtractor(object):
 				
 			self.area_cycle(ep)
 			self.ex.save()
-			exit()
 
 		self.ex.save()
 
@@ -268,4 +267,4 @@ if __name__ == '__main__':
 	# Extract Story Events
 	DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
 	# Extract Raids prologue-ending
-	DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
+	# DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
