@@ -24,11 +24,15 @@ class Translate():
 
 class Excell():
 
+	no_replace = True
+
 	name_jpc = 2
 	name_enc = 5
 	message_jpc = 3 # japan
 	message_gtc = 4 # google
 	message_mnc = 6 # manual
+
+	story_id = 8
 
 	step = 1
 	row_pos = 2
@@ -62,6 +66,10 @@ class Excell():
 			print(f"[INFO    ]: Add {sheet_name} event")
 			return True
 		else:
+			self.selected_sheet = self.file[sheet_name]
+			self.selected_sheet.title = sheet_name
+			self.reinit_sheet()
+			print(self.selected_sheet.title)
 			return False
 
 	def set_value(self, row:str, col:int, value:str):
@@ -103,9 +111,10 @@ class Excell():
 		row = self.row_pos
 
 		print(f"	[INFO    ]: Add {area_name} area")
-		self.set_value(row, 1, "Area name:")
-		self.set_value(row, col, area_name)
-		self.set_value(row, self.message_gtc, self.translate_sentence(area_name))
+		if not self.no_replace:
+			self.set_value(row, 1, "Area name:")
+			self.set_value(row, col, area_name)
+			self.set_value(row, self.message_gtc, self.translate_sentence(area_name))
 		self.row_pos += 2
 		self.story_number = 1
 
@@ -113,9 +122,10 @@ class Excell():
 		col = self.message_jpc
 		row = self.row_pos
 
-		self.set_value(row, 1, f"Scene {self.story_number}:")
-		self.set_value(row, col, story_name)
-		self.set_value(row, self.message_gtc, self.translate_sentence(story_name))
+		if not self.no_replace:
+			self.set_value(row, 1, f"Scene {self.story_number}:")
+			self.set_value(row, col, story_name)
+			self.set_value(row, self.message_gtc, self.translate_sentence(story_name))
 		self.row_pos += 1
 		self.story_begin = 0
 
@@ -136,16 +146,26 @@ class Excell():
 
 		self.set_value(row, col, message)
 
+	def write_story_id(self, sid):
+		col = self.story_id
+		row = self.row_pos
+
+		self.set_value(row, col, sid)
+
 	def write_translated_message(self, message):
 		col = self.message_gtc
 		row = self.row_pos
 
-		self.set_value(row, col, self.translate_sentence(message))
+		if not self.no_replace:
+			self.set_value(row, col, self.translate_sentence(message))
 
-		self.row_pos += self.step
+		# self.row_pos += self.step
 
 	def translate_sentence(self, message):
 		return self.translator.translate(message)
+
+	def stepping(self):
+		self.row_pos += self.step
 
 class DialogueExtractor(object):
 
@@ -168,6 +188,8 @@ class DialogueExtractor(object):
 			self.ex.write_name(self.get_name(talk))
 			self.ex.write_message(talk['talk_text'].replace("\n", " "))
 			self.ex.write_translated_message(talk['talk_text'].replace("\n", " "))
+			self.ex.write_story_id(talk['id'])
+			self.ex.row_pos += self.ex.step
 
 	def	story_cycle(self, area, ep):
 		for story in self.db.story:
@@ -184,6 +206,7 @@ class DialogueExtractor(object):
 			if area['m_episode_id'] != ep['m_episode_id']: continue
 			area_num += 1
 			area_name = area['name']
+
 			self.ex.write_area(area['name'])
 			self.story_cycle(area, ep)
 
@@ -193,9 +216,13 @@ class DialogueExtractor(object):
 		for ep in story:
 			if not ep['event_type'] in event_types: continue
 			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name']}"
-			if not self.ex.set_sheet(sheet_name): continue
+
+			if not self.ex.set_sheet(sheet_name): 
+				pass
+				
 			self.area_cycle(ep)
 			self.ex.save()
+			exit()
 
 		self.ex.save()
 
@@ -238,4 +265,4 @@ if __name__ == '__main__':
 	# Extract Story Events
 	DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
 	# Extract Raids prologue-ending
-	DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
+	# DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
