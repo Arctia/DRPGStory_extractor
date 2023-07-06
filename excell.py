@@ -7,6 +7,8 @@ import json
 import time
 import os
 
+DEBUG = True
+
 class Translate():
 
 	def __init__(self):
@@ -107,26 +109,28 @@ class Excell():
 		self.set_value(row, col, episode_name)
 		self.row_pos += 1
 
-	def write_area(self, area_name):
+	def write_area(self, area):
 		col = self.message_jpc
 		row = self.row_pos
 
-		print(f"	[INFO    ]: Add {area_name} area")
+		print(f"	[INFO    ]: Add {area['name']} area")
 		if not self.no_replace:
 			self.set_value(row, 1, "Area name:")
-			self.set_value(row, col, area_name)
+			self.set_value(row, col, area['name'])
 			self.set_value(row, self.message_gtc, self.translate_sentence(area_name))
+		self.set_value(row, self.story_id, area['id'])
 		self.row_pos += 2
 		self.story_number = 1
 
-	def write_story(self, story_name):
+	def write_story(self, story):
 		col = self.message_jpc
 		row = self.row_pos
 
 		if not self.no_replace:
 			self.set_value(row, 1, f"Scene {self.story_number}:")
-			self.set_value(row, col, story_name)
+			self.set_value(row, col, story['title'])
 			self.set_value(row, self.message_gtc, self.translate_sentence(story_name))
+		self.set_value(row, self.story_id, story['id'])
 		self.row_pos += 1
 		self.story_begin = 0
 
@@ -197,7 +201,7 @@ class DialogueExtractor(object):
 			divider = 100 if ep['event_type'] == 1 else 10
 			if int(story['id'] / divider) != area['id']: continue
 
-			self.ex.write_story(story['title'])
+			self.ex.write_story(story)
 			self.story_talk_cycle(story)
 			self.ex.row_pos += 1
 
@@ -208,7 +212,7 @@ class DialogueExtractor(object):
 			area_num += 1
 			area_name = area['name']
 
-			self.ex.write_area(area['name'])
+			self.ex.write_area(area)
 			self.story_cycle(area, ep)
 
 	def start_cycle(self, tp='event'):
@@ -218,8 +222,7 @@ class DialogueExtractor(object):
 			if not ep['event_type'] in event_types: continue
 			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name']}"
 
-			if not self.ex.set_sheet(sheet_name): 
-				pass
+			if not self.ex.set_sheet(sheet_name) and not DEBUG: continue
 				
 			self.area_cycle(ep)
 			self.ex.save()
