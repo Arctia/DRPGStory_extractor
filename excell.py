@@ -32,7 +32,7 @@ class Excell():
 	message_gtc = 4 # google
 	message_mnc = 6 # manual
 
-	story_id = 8
+	story_id = 10
 
 	step = 1
 	row_pos = 2
@@ -97,6 +97,7 @@ class Excell():
 		self.set_value(1, self.message_jpc, "JP")
 		self.set_value(1, self.message_gtc, "Google translate")
 		self.set_value(1, self.message_mnc, "Manual translation")
+		self.set_value(1, self.story_id, "Dialogue ID")
 
 	def write_episode(self, episode_name):
 		col = self.message_jpc
@@ -222,7 +223,6 @@ class DialogueExtractor(object):
 				
 			self.area_cycle(ep)
 			self.ex.save()
-			exit()
 
 		self.ex.save()
 

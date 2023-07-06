@@ -31,12 +31,12 @@ class DataLoader():
 
 	def load_en_json(self, filename):
 		file_path = os.path.join(self.PATH, "EN", filename + ".json")
-		with open(file_path) as f:
+		with open(file_path, encoding='utf-8') as f:
 			data = json.load(f)
 		return (data)
 
 	def load_jp_json(self, filename):
 		file_path = os.path.join(self.PATH, "master_json", filename + ".json")
-		with open(file_path) as f:
+		with open(file_path, encoding='utf-8') as f:
 			data = json.load(f)["DataList"]
 		return (data)
