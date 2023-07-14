@@ -1,13 +1,9 @@
 
 from deep_translator import GoogleTranslator
 from dataloader import DataLoader
-import openpyxl
-import json
-#import main
-import time
-import os
+import openpyxl, json, time, os
 
-DEBUG = True
+DEBUG = False
 
 class Translate():
 
@@ -26,7 +22,7 @@ class Translate():
 
 class Excell():
 
-	no_replace = True
+	no_replace = False
 
 	name_jpc = 2
 	name_enc = 5
@@ -122,15 +118,17 @@ class Excell():
 		self.row_pos += 2
 		self.story_number = 1
 
-	def write_story(self, story):
+	def write_story(self, story, st_name=None):
 		col = self.message_jpc
 		row = self.row_pos
 
 		if not self.no_replace:
 			self.set_value(row, 1, f"Scene {self.story_number}:")
 			self.set_value(row, col, story['title'])
-			self.set_value(row, self.message_gtc, self.translate_sentence(story_name))
+			self.set_value(row, self.message_gtc, self.translate_sentence(story['title']))
+
 		self.set_value(row, self.story_id, story['id'])
+
 		self.row_pos += 1
 		self.story_begin = 0
 
@@ -232,10 +230,10 @@ class DialogueExtractor(object):
 	def raid_story_cycle(self, ep) -> None:
 		for story in self.db.story:
 			if story['id'] != ep['prologue_story_id'] and story['id'] != ep['ending_story_id']: continue
-			pre = 'prologe' if story['id'] == ep['prologue_story_id'] else 'ending'
-			st_name = f"{pre}: {story['title']}"
+			pre = 'prologue' if story['id'] == ep['prologue_story_id'] else 'ending'
+			story['title'] = f"{pre}: {story['title']}"
 
-			self.ex.write_story(st_name)
+			self.ex.write_story(story)
 			self.story_talk_cycle(story)
 			self.ex.row_pos += 1
 
@@ -251,7 +249,7 @@ class DialogueExtractor(object):
 
 			done_raids.append(ep['resource_name'])
 			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name'].replace(' ', '_')}"
-			if not self.ex.set_sheet(sheet_name): continue
+			if not self.ex.set_sheet(sheet_name) and not DEBUG: continue
 
 			self.raid_story_cycle(ep)
 			self.ex.save()
@@ -266,6 +264,6 @@ class DialogueReverse():
 
 if __name__ == '__main__':
 	# Extract Story Events
-	DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
+	# DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
 	# Extract Raids prologue-ending
-	# DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
+	DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')

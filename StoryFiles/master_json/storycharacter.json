@@ -11078,6 +11078,300 @@
             "img_face": 0
         },
         {
+            "id": 44301,
+            "name": "【イベント】水着ヴァルバトーゼ",
+            "img_base": 443,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44302,
+            "name": "【イベント】水着ヴァルバトーゼ",
+            "img_base": 443,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44303,
+            "name": "【イベント】水着ヴァルバトーゼ",
+            "img_base": 443,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44304,
+            "name": "【イベント】水着ヴァルバトーゼ",
+            "img_base": 443,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 44305,
+            "name": "【イベント】水着ヴァルバトーゼ",
+            "img_base": 443,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 44401,
+            "name": "【イベント】水着セラフィーヌ",
+            "img_base": 444,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44402,
+            "name": "【イベント】水着セラフィーヌ",
+            "img_base": 444,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44403,
+            "name": "【イベント】水着セラフィーヌ",
+            "img_base": 444,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44404,
+            "name": "【イベント】水着セラフィーヌ",
+            "img_base": 444,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 44405,
+            "name": "【イベント】水着セラフィーヌ",
+            "img_base": 444,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 44406,
+            "name": "【イベント】水着セラフィーヌ",
+            "img_base": 444,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 44501,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44502,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44503,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44504,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 44505,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 44506,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 44507,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 44508,
+            "name": "【イベント】水着ロザリンド",
+            "img_base": 445,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 44601,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44602,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44603,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44604,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 44605,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 44606,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 44607,
+            "name": "【イベント】水着ウサリア",
+            "img_base": 446,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 44701,
+            "name": "【イベント】水着聖プリニー",
+            "img_base": 447,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44702,
+            "name": "【イベント】水着聖プリニー",
+            "img_base": 447,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44703,
+            "name": "【イベント】水着聖プリニー",
+            "img_base": 447,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44801,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 44802,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 44803,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 44804,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 44805,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 44806,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 44807,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 44808,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 44809,
+            "name": "【イベント】渚の堕天使水着フロン",
+            "img_base": 448,
+            "img_body": 9,
+            "img_face": 0
+        },
+        {
+            "id": 44901,
+            "name": "【イベント】水着ルーシー・セラフィーヌ",
+            "img_base": 449,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45001,
+            "name": "【イベント】水着エトナ・ナギサ",
+            "img_base": 450,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45101,
+            "name": "【イベント】ナギサ・メーヴェル・マリン・アマネ",
+            "img_base": 451,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45201,
+            "name": "【イベント】中ボス・ビッグスター様・アクターレ",
+            "img_base": 452,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
             "id": 100101,
             "name": "【ダイジェスト】D1ラハール表情01",
             "img_base": 1001,
