@@ -191,6 +191,16 @@
             "close_at": ""
         },
         {
+            "id": 19,
+            "episode_type": 1,
+            "no": 9,
+            "series": 0,
+            "m_main_story_category_id": 21,
+            "name": "メインストーリー第2部9話",
+            "open_at": "2023-09-23 00:00:00",
+            "close_at": ""
+        },
+        {
             "id": 100,
             "episode_type": 8,
             "no": 1,
@@ -3007,6 +3017,366 @@
             "series": 0,
             "m_main_story_category_id": 0,
             "name": "水着セラフィーヌ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15001,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔夏のスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15011,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "再来！界援隊！　消えた幼い少女たちの行方",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15012,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "再来！界援隊！　消えた幼い少女たちの行方EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15031,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 水着聖女エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15041,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15081,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "スイセン",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15121,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ディスガイア7コラボ第2弾 スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15131,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15141,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 シシリーＸＥＮＯ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15181,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ウサギ！お月見！獣悟夜の乱",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15182,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ウサギ！お月見！獣悟夜の乱EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15191,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "バニーメーヴェル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15241,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "十五夜のスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15251,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "死武夜ハロウィン～コスプレ軍団ｖｓ金目当ての狩人～",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15252,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "死武夜ハロウィン～コスプレ軍団ｖｓ金目当ての狩人～EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15261,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ハロウィンマジョリタ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15281,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 無限超転生ゼット",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15291,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15361,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 雷帝ラハール",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15371,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ハロウィンスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15381,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15451,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "４周年だよ！魔界崩壊！？天界戦記ディスガイア",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15452,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "４周年だよ！魔界崩壊！？天界戦記ディスガイアEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15491,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "大天使プレネール",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15501,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 女幹部エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15511,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "4th Anniversaryスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15521,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15531,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "XENO mas～闇より深き血の絆～",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15532,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "XENO mas～闇より深き血の絆～EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15611,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "サンタ未来ウサリア",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15621,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 暴禍なるアデル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15631,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "聖夜のスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15641,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15681,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "出たな！　正月・ゴッド・ドラゴン！",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15682,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "出たな！　正月・ゴッド・ドラゴン！EXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15701,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 晴れ着氷帝ロザリンド",
             "open_at": "",
             "close_at": ""
         },

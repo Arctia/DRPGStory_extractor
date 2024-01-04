@@ -1,4 +1,3 @@
-
 from deep_translator import GoogleTranslator
 from dataloader import DataLoader
 import openpyxl, json, time, os
@@ -30,7 +29,7 @@ class Excell():
 	message_gtc = 4 # google
 	message_mnc = 6 # manual
 
-	story_id = 10
+	story_id = 26
 
 	step = 1
 	row_pos = 2

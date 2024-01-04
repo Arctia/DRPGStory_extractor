@@ -1580,10 +1580,10 @@
         },
         {
             "id": 4502,
-            "name": "【メイン】偽ゼノン表情01",
+            "name": "【メイン】偽ゼノン表情02",
             "img_base": 45,
             "img_body": 1,
-            "img_face": 0
+            "img_face": 2
         },
         {
             "id": 4601,
@@ -11372,6 +11372,1546 @@
             "img_face": 0
         },
         {
+            "id": 45301,
+            "name": "【イベント】大量の覇道絶勝斎",
+            "img_base": 453,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45401,
+            "name": "【イベント】フジ・ラハール・ゼット",
+            "img_base": 454,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45501,
+            "name": "【イベント】アオ・シシリー・ビーコ",
+            "img_base": 455,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45601,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45602,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 45603,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 45604,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 45605,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 45606,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 45607,
+            "name": "【イベント】水着彼岸絶勝斎",
+            "img_base": 456,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 45701,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45702,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 45703,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 45704,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 45705,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 45706,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 45707,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 45708,
+            "name": "【イベント】水着ピリリカ",
+            "img_base": 457,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 45801,
+            "name": "【イベント】僧侶女",
+            "img_base": 458,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45901,
+            "name": "【イベント】バニーメーヴェル",
+            "img_base": 459,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 45902,
+            "name": "【イベント】バニーメーヴェル",
+            "img_base": 459,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 45903,
+            "name": "【イベント】バニーメーヴェル",
+            "img_base": 459,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 45904,
+            "name": "【イベント】バニーメーヴェル",
+            "img_base": 459,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 45905,
+            "name": "【イベント】バニーメーヴェル",
+            "img_base": 459,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 45906,
+            "name": "【イベント】バニーメーヴェル",
+            "img_base": 459,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 46001,
+            "name": "【イベント】ワイルドフェンリッヒ",
+            "img_base": 460,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46002,
+            "name": "【イベント】ワイルドフェンリッヒ",
+            "img_base": 460,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46003,
+            "name": "【イベント】ワイルドフェンリッヒ",
+            "img_base": 460,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46004,
+            "name": "【イベント】ワイルドフェンリッヒ",
+            "img_base": 460,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46005,
+            "name": "【イベント】ワイルドフェンリッヒ",
+            "img_base": 460,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 46006,
+            "name": "【イベント】ワイルドフェンリッヒ",
+            "img_base": 460,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 46101,
+            "name": "【イベント】ミヅキ",
+            "img_base": 461,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46102,
+            "name": "【イベント】ミヅキ",
+            "img_base": 461,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46103,
+            "name": "【イベント】ミヅキ",
+            "img_base": 461,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46104,
+            "name": "【イベント】ミヅキ",
+            "img_base": 461,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46201,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46202,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46203,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46204,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46205,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 46206,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 46207,
+            "name": "【イベント】兎兎マジョリタ",
+            "img_base": 462,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 46301,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46302,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46303,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46304,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46305,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 46306,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 46307,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 46308,
+            "name": "【イベント】バニーリーゼロッタ",
+            "img_base": 463,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 46401,
+            "name": "【イベント】お月見氷帝ロザリンド",
+            "img_base": 464,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46402,
+            "name": "【イベント】お月見氷帝ロザリンド",
+            "img_base": 464,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46403,
+            "name": "【イベント】お月見氷帝ロザリンド",
+            "img_base": 464,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46404,
+            "name": "【イベント】お月見氷帝ロザリンド",
+            "img_base": 464,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46405,
+            "name": "【イベント】お月見氷帝ロザリンド",
+            "img_base": 464,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 46501,
+            "name": "【イベント】バニーセラフィーヌ",
+            "img_base": 465,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46502,
+            "name": "【イベント】バニーセラフィーヌ",
+            "img_base": 465,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46503,
+            "name": "【イベント】バニーセラフィーヌ",
+            "img_base": 465,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46504,
+            "name": "【イベント】バニーセラフィーヌ",
+            "img_base": 465,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46505,
+            "name": "【イベント】バニーセラフィーヌ",
+            "img_base": 465,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 46506,
+            "name": "【イベント】バニーセラフィーヌ",
+            "img_base": 465,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 46601,
+            "name": "【イベント】バニー四人",
+            "img_base": 466,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46701,
+            "name": "【イベント】ミヅキ・睡眠",
+            "img_base": 467,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46801,
+            "name": "【イベント】ブルカノ(チャージ)",
+            "img_base": 468,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 46802,
+            "name": "【イベント】ブルカノ(チャージ)",
+            "img_base": 468,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 46803,
+            "name": "【イベント】ブルカノ(チャージ)",
+            "img_base": 468,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 46804,
+            "name": "【イベント】ブルカノ(チャージ)",
+            "img_base": 468,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 46901,
+            "name": "【イベント】ウサリア＆兎兎マジョリタ",
+            "img_base": 469,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47001,
+            "name": "【イベント】ウサリア＆兎兎マジョリタ",
+            "img_base": 470,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47101,
+            "name": "【イベント】歴代主人公",
+            "img_base": 471,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47201,
+            "name": "【イベント】アデル＆メロディア",
+            "img_base": 472,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47301,
+            "name": "【メインストーリー】量産型ラハールＡ",
+            "img_base": 473,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47401,
+            "name": "【メインストーリー】量産型ラハールＢ",
+            "img_base": 474,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47501,
+            "name": "【メインストーリー】量産型ラハールＣ",
+            "img_base": 475,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47601,
+            "name": "【メインストーリー】量産型ラハールＤ",
+            "img_base": 476,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47701,
+            "name": "【メインストーリー】量産型アデル",
+            "img_base": 477,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47801,
+            "name": "【メインストーリー】量産型マオ",
+            "img_base": 478,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 47901,
+            "name": "【メインストーリー】量産型ヴァルバトーゼ",
+            "img_base": 479,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48001,
+            "name": "【メインストーリー】量産型キリア",
+            "img_base": 480,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48101,
+            "name": "【イベント】魔法剣士マリン",
+            "img_base": 481,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48201,
+            "name": "【イベント】カボチャプリニー",
+            "img_base": 482,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48202,
+            "name": "【イベント】カボチャプリニー",
+            "img_base": 482,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 48203,
+            "name": "【イベント】カボチャプリニー",
+            "img_base": 482,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 48301,
+            "name": "【イベント】キョンシーハナコ",
+            "img_base": 483,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48302,
+            "name": "【イベント】キョンシーハナコ",
+            "img_base": 483,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 48303,
+            "name": "【イベント】キョンシーハナコ",
+            "img_base": 483,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 48304,
+            "name": "【イベント】キョンシーハナコ",
+            "img_base": 483,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 48305,
+            "name": "【イベント】キョンシーハナコ",
+            "img_base": 483,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 48306,
+            "name": "【イベント】キョンシーハナコ",
+            "img_base": 483,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 48401,
+            "name": "【イベント】小悪魔ラズベリルＸＥＮＯ",
+            "img_base": 484,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48402,
+            "name": "【イベント】小悪魔ラズベリルＸＥＮＯ",
+            "img_base": 484,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 48403,
+            "name": "【イベント】小悪魔ラズベリルＸＥＮＯ",
+            "img_base": 484,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 48404,
+            "name": "【イベント】小悪魔ラズベリルＸＥＮＯ",
+            "img_base": 484,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 48405,
+            "name": "【イベント】小悪魔ラズベリルＸＥＮＯ",
+            "img_base": 484,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 48406,
+            "name": "【イベント】小悪魔ラズベリルＸＥＮＯ",
+            "img_base": 484,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 48501,
+            "name": "【イベント】格闘家・戦士男",
+            "img_base": 485,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48601,
+            "name": "【イベント】忍者男",
+            "img_base": 486,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48701,
+            "name": "【イベント】気絶ハナコ",
+            "img_base": 487,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48801,
+            "name": "【イベント】大量のガンナー",
+            "img_base": 488,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48901,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 48902,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 48903,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 48904,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 48905,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 48906,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 48907,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 48908,
+            "name": "【イベント】魔女っ子エトナ",
+            "img_base": 489,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 49001,
+            "name": "兎闘族の子供",
+            "img_base": 490,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49101,
+            "name": "【イベント】主役B",
+            "img_base": 491,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49201,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49202,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 49203,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 49204,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 49205,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 49206,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 49207,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 49208,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 49209,
+            "name": "【イベント】天使ルーシー",
+            "img_base": 492,
+            "img_body": 9,
+            "img_face": 0
+        },
+        {
+            "id": 49301,
+            "name": "【イベント】堕天使シシリー",
+            "img_base": 493,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49302,
+            "name": "【イベント】堕天使シシリー",
+            "img_base": 493,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 49303,
+            "name": "【イベント】堕天使シシリー",
+            "img_base": 493,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 49304,
+            "name": "【イベント】堕天使シシリー",
+            "img_base": 493,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 49305,
+            "name": "【イベント】堕天使シシリー",
+            "img_base": 493,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 49306,
+            "name": "【イベント】堕天使シシリー",
+            "img_base": 493,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 49401,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49402,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 49403,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 49404,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 49405,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 49406,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 49407,
+            "name": "【イベント】礼装ウサリア",
+            "img_base": 494,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 49501,
+            "name": "【イベント】大天使プレネール",
+            "img_base": 495,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49502,
+            "name": "【イベント】大天使プレネール",
+            "img_base": 495,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 49503,
+            "name": "【イベント】大天使プレネール",
+            "img_base": 495,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 49504,
+            "name": "【イベント】大天使プレネール",
+            "img_base": 495,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 49505,
+            "name": "【イベント】大天使プレネール",
+            "img_base": 495,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 49506,
+            "name": "【イベント】大天使プレネール",
+            "img_base": 495,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 49601,
+            "name": "【イベント】聖天使ロザリンド",
+            "img_base": 496,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49602,
+            "name": "【イベント】聖天使ロザリンド",
+            "img_base": 496,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 49603,
+            "name": "【イベント】聖天使ロザリンド",
+            "img_base": 496,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 49604,
+            "name": "【イベント】聖天使ロザリンド",
+            "img_base": 496,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 49605,
+            "name": "【イベント】聖天使ロザリンド",
+            "img_base": 496,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 49606,
+            "name": "【イベント】聖天使ロザリンド",
+            "img_base": 496,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 49701,
+            "name": "【イベント】魔天使ラハールちゃん",
+            "img_base": 497,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49702,
+            "name": "【イベント】魔天使ラハールちゃん",
+            "img_base": 497,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 49703,
+            "name": "【イベント】魔天使ラハールちゃん",
+            "img_base": 497,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 49704,
+            "name": "【イベント】魔天使ラハールちゃん",
+            "img_base": 497,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 49705,
+            "name": "【イベント】魔天使ラハールちゃん",
+            "img_base": 497,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 49706,
+            "name": "【イベント】魔天使ラハールちゃん",
+            "img_base": 497,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 49801,
+            "name": "【イベント】礼装キリア＆勇者ラハール",
+            "img_base": 498,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 49901,
+            "name": "【イベント】天使ルーシー＆堕天使シシリー",
+            "img_base": 499,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50001,
+            "name": "【イベント】魔天使ラハールちゃん＆堕天使フロン",
+            "img_base": 500,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50101,
+            "name": "【イベント】私服ノエル",
+            "img_base": 501,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50102,
+            "name": "【イベント】私服ノエル",
+            "img_base": 501,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 50103,
+            "name": "【イベント】私服ノエル",
+            "img_base": 501,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 50104,
+            "name": "【イベント】私服ノエル",
+            "img_base": 501,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 50105,
+            "name": "【イベント】私服ノエル",
+            "img_base": 501,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 50201,
+            "name": "【イベント】聖夜白兎サリア",
+            "img_base": 502,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50202,
+            "name": "【イベント】聖夜白兎サリア",
+            "img_base": 502,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 50203,
+            "name": "【イベント】聖夜白兎サリア",
+            "img_base": 502,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 50204,
+            "name": "【イベント】聖夜白兎サリア",
+            "img_base": 502,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 50301,
+            "name": "【イベント】聖夜黒兎ウー",
+            "img_base": 503,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50302,
+            "name": "【イベント】聖夜黒兎ウー",
+            "img_base": 503,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 50303,
+            "name": "【イベント】聖夜黒兎ウー",
+            "img_base": 503,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 50304,
+            "name": "【イベント】聖夜黒兎ウー",
+            "img_base": 503,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 50401,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50402,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 50403,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 50404,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 50405,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 50406,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 50407,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 50408,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 50409,
+            "name": "【イベント】サンタアオ",
+            "img_base": 504,
+            "img_body": 9,
+            "img_face": 0
+        },
+        {
+            "id": 50501,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50502,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 50503,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 50504,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 50505,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 50506,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 50507,
+            "name": "【イベント】サンタフーカ",
+            "img_base": 505,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 50601,
+            "name": "【イベント】サンタ日本一ちゃん(眠り)",
+            "img_base": 506,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50701,
+            "name": "【イベント】サンタラハール＆黒夜シシリー",
+            "img_base": 507,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50801,
+            "name": "【イベント】聖魔拳リーゼロッタ",
+            "img_base": 508,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 50802,
+            "name": "【イベント】聖魔拳リーゼロッタ",
+            "img_base": 508,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 50803,
+            "name": "【イベント】聖魔拳リーゼロッタ",
+            "img_base": 508,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 50804,
+            "name": "【イベント】聖魔拳リーゼロッタ",
+            "img_base": 508,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 50805,
+            "name": "【イベント】聖魔拳リーゼロッタ",
+            "img_base": 508,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 50901,
+            "name": "【イベント】黒夜シシリー・サンタアオ・サンタウサリア",
+            "img_base": 509,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51001,
+            "name": "【イベント】桜餅聖プリニー",
+            "img_base": 510,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51002,
+            "name": "【イベント】桜餅聖プリニー",
+            "img_base": 510,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 51003,
+            "name": "【イベント】桜餅聖プリニー",
+            "img_base": 510,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 51101,
+            "name": "【イベント】晴れ着サルバトーレ",
+            "img_base": 511,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51102,
+            "name": "【イベント】晴れ着サルバトーレ",
+            "img_base": 511,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 51103,
+            "name": "【イベント】晴れ着サルバトーレ",
+            "img_base": 511,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 51104,
+            "name": "【イベント】晴れ着サルバトーレ",
+            "img_base": 511,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 51105,
+            "name": "【イベント】晴れ着サルバトーレ",
+            "img_base": 511,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 51201,
+            "name": "【イベント】巫女ビーコ",
+            "img_base": 512,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51202,
+            "name": "【イベント】巫女ビーコ",
+            "img_base": 512,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 51203,
+            "name": "【イベント】巫女ビーコ",
+            "img_base": 512,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 51204,
+            "name": "【イベント】巫女ビーコ",
+            "img_base": 512,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 51301,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51302,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 51303,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 51304,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 51305,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 51306,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 51307,
+            "name": "【イベント】干支彼岸絶勝斎",
+            "img_base": 513,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 51401,
+            "name": "【イベント】大量の忍者男",
+            "img_base": 514,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51501,
+            "name": "【イベント】干支フーカ＆干支ルーシー笑顔",
+            "img_base": 515,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51601,
+            "name": "【イベント】干支フーカ＆干支ルーシー怒り",
+            "img_base": 516,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51701,
+            "name": "【イベント】晴れ着ロザリンド・氷帝・サクヤ",
+            "img_base": 517,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51801,
+            "name": "【イベント】晴れ着サルバトーレ＆干支ルーシー",
+            "img_base": 518,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 51901,
+            "name": "【イベント】巫女メロディア＆巫女ビーコ",
+            "img_base": 519,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52001,
+            "name": "【イベント】晴れ着日本一ちゃん",
+            "img_base": 520,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52002,
+            "name": "【イベント】晴れ着日本一ちゃん",
+            "img_base": 520,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52003,
+            "name": "【イベント】晴れ着日本一ちゃん",
+            "img_base": 520,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52004,
+            "name": "【イベント】晴れ着日本一ちゃん",
+            "img_base": 520,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52005,
+            "name": "【イベント】晴れ着日本一ちゃん",
+            "img_base": 520,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52006,
+            "name": "【イベント】晴れ着日本一ちゃん",
+            "img_base": 520,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
             "id": 100101,
             "name": "【ダイジェスト】D1ラハール表情01",
             "img_base": 1001,
@@ -13371,6 +14911,237 @@
             "name": "【ダイジェスト】ピーちゃん表情03",
             "img_base": 8005,
             "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 800601,
+            "name": "【ダイジェスト】シーフォー表情01",
+            "img_base": 8006,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 800602,
+            "name": "【ダイジェスト】シーフォー表情02",
+            "img_base": 8006,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 800603,
+            "name": "【ダイジェスト】シーフォー表情03",
+            "img_base": 8006,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 800604,
+            "name": "【ダイジェスト】シーフォー表情04",
+            "img_base": 8006,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 800605,
+            "name": "【ダイジェスト】シーフォー表情05",
+            "img_base": 8006,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 800606,
+            "name": "【ダイジェスト】シーフォー表情06",
+            "img_base": 8006,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 800607,
+            "name": "【ダイジェスト】シーフォー表情07",
+            "img_base": 8006,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 800608,
+            "name": "【ダイジェスト】シーフォー表情08",
+            "img_base": 8006,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 800609,
+            "name": "【ダイジェスト】シーフォー表情09",
+            "img_base": 8006,
+            "img_body": 9,
+            "img_face": 0
+        },
+        {
+            "id": 800701,
+            "name": "【ダイジェスト】スイセン表情01",
+            "img_base": 8007,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 800702,
+            "name": "【ダイジェスト】スイセン表情02",
+            "img_base": 8007,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 800703,
+            "name": "【ダイジェスト】スイセン表情03",
+            "img_base": 8007,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 800704,
+            "name": "【ダイジェスト】スイセン表情04",
+            "img_base": 8007,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 800705,
+            "name": "【ダイジェスト】スイセン表情05",
+            "img_base": 8007,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 800706,
+            "name": "【ダイジェスト】スイセン表情06",
+            "img_base": 8007,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 800707,
+            "name": "【ダイジェスト】スイセン表情07",
+            "img_base": 8007,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 800708,
+            "name": "【ダイジェスト】スイセン表情08",
+            "img_base": 8007,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 800709,
+            "name": "【ダイジェスト】スイセン表情09",
+            "img_base": 8007,
+            "img_body": 9,
+            "img_face": 0
+        },
+        {
+            "id": 800801,
+            "name": "【ダイジェスト】ウェイヤス表情01",
+            "img_base": 8008,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 800802,
+            "name": "【ダイジェスト】ウェイヤス表情02",
+            "img_base": 8008,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 800803,
+            "name": "【ダイジェスト】ウェイヤス表情03",
+            "img_base": 8008,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 800804,
+            "name": "【ダイジェスト】ウェイヤス表情04",
+            "img_base": 8008,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 800805,
+            "name": "【ダイジェスト】ウェイヤス表情05",
+            "img_base": 8008,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 800806,
+            "name": "【ダイジェスト】ウェイヤス表情06",
+            "img_base": 8008,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 800807,
+            "name": "【ダイジェスト】ウェイヤス表情07",
+            "img_base": 8008,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 800808,
+            "name": "【ダイジェスト】ウェイヤス表情08",
+            "img_base": 8008,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 800809,
+            "name": "【ダイジェスト】ウェイヤス表情09",
+            "img_base": 8008,
+            "img_body": 9,
+            "img_face": 0
+        },
+        {
+            "id": 800810,
+            "name": "【ダイジェスト】ウェイヤス表情10",
+            "img_base": 8008,
+            "img_body": 10,
+            "img_face": 0
+        },
+        {
+            "id": 800811,
+            "name": "【ダイジェスト】ウェイヤス表情11",
+            "img_base": 8008,
+            "img_body": 11,
+            "img_face": 0
+        },
+        {
+            "id": 800901,
+            "name": "【ダイジェスト】覇道絶勝斎表情01",
+            "img_base": 8009,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 800902,
+            "name": "【ダイジェスト】覇道絶勝斎表情02",
+            "img_base": 8009,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 800903,
+            "name": "【ダイジェスト】覇道絶勝斎表情01(反転)",
+            "img_base": 8009,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 800904,
+            "name": "【ダイジェスト】覇道絶勝斎表情02(反転)",
+            "img_base": 8009,
+            "img_body": 4,
             "img_face": 0
         },
         {
