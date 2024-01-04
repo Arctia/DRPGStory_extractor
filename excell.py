@@ -105,6 +105,19 @@ class Excell():
 		self.set_value(row, col, episode_name)
 		self.row_pos += 1
 
+	def write_english_area(self, area, area_jp):
+		col = self.message_jpc
+		row = self.row_pos
+
+		print(f"	[INFO    ]: Add {area_jp['name']} area")
+		if not self.no_replace:
+			self.set_value(row, 1, "Area name:")
+			self.set_value(row, col, area_jp['name'])
+			self.set_value(row, self.message_gtc, area['name'])
+		self.set_value(row, self.story_id, area['id'])
+		self.row_pos += 2
+		self.story_number = 1
+
 	def write_area(self, area):
 		col = self.message_jpc
 		row = self.row_pos
@@ -113,10 +126,26 @@ class Excell():
 		if not self.no_replace:
 			self.set_value(row, 1, "Area name:")
 			self.set_value(row, col, area['name'])
-			self.set_value(row, self.message_gtc, self.translate_sentence(area_name))
+			self.set_value(row, self.message_gtc, self.translate_sentence(area['name']))
 		self.set_value(row, self.story_id, area['id'])
 		self.row_pos += 2
 		self.story_number = 1
+
+	def write_english_story(self, story, story_jp, st_name=None):
+		col = self.message_jpc
+		row = self.row_pos
+
+		if not self.no_replace:
+			self.set_value(row, 1, f"Scene {self.story_number}:")
+			self.set_value(row, col, story_jp['title'])
+			self.set_value(row, self.message_gtc, story['title'])
+
+		self.set_value(row, self.story_id, story['id'])
+
+		self.row_pos += 1
+		self.story_begin = 0
+
+		self.story_number += 1
 
 	def write_story(self, story, st_name=None):
 		col = self.message_jpc
@@ -155,6 +184,13 @@ class Excell():
 
 		self.set_value(row, col, sid)
 
+	def write_english_message(self, message):
+		col = self.message_gtc
+		row = self.row_pos
+
+		if not self.no_replace:
+			self.set_value(row, col, message)
+
 	def write_translated_message(self, message):
 		col = self.message_gtc
 		row = self.row_pos
@@ -176,7 +212,7 @@ class DialogueExtractor(object):
 		self.db = DataLoader(jp=jp)
 		self.ex = Excell(file)
 		
-		if tp != 'raid': self.start_cycle()
+		if tp != 'raid': self.start_cycle(tp)
 		else: self.raids_start_cycle()
 
 	def	get_name(self, t):
@@ -186,38 +222,83 @@ class DialogueExtractor(object):
 				return t[o]
 
 	def	story_talk_cycle(self, story):
+		count = 0
 		for talk in self.db.story_talk:
+			to_translate = True
 			if talk['m_story_id'] != story['id']: continue
 			self.ex.write_name(self.get_name(talk))
 			self.ex.write_message(talk['talk_text'].replace("\n", " "))
-			self.ex.write_translated_message(talk['talk_text'].replace("\n", " "))
+			for talk_en in self.db.story_talk_en:
+				if not talk['id'] == talk_en['id']: continue
+				# print(talk_en['talk_text'])
+				self.ex.write_english_message(talk_en['talk_text'].replace("\n", " "))
+				to_translate = False
+				break
+			if to_translate:
+				self.ex.write_translated_message(talk['talk_text'].replace("\n", " "))
 			self.ex.write_story_id(talk['id'])
 			self.ex.row_pos += self.ex.step
 
 	def	story_cycle(self, area, ep):
+
+		def write_story(story):
+			for story_en in self.db.story_en:
+				if not story_en['id'] == story['id']: continue
+				self.ex.write_english_story(story_en, story)
+				return
+			self.ex.write_story(story)
+
 		for story in self.db.story:
 			divider = 100 if ep['event_type'] == 1 else 10
+			if ep['episode']: divider = 10
 			if int(story['id'] / divider) != area['id']: continue
 
-			self.ex.write_story(story)
+			write_story(story)
 			self.story_talk_cycle(story)
 			self.ex.row_pos += 1
 
 	def	area_cycle(self, ep):
+
+		def write_area(area):
+			for area_en in self.db.area_en:
+				if not area_en['id'] == area['id']: continue
+				self.ex.write_english_area(area_en, area)
+				return
+			self.ex.write_area(area)
+
 		area_num = 0
 		for area in self.db.area:
 			if area['m_episode_id'] != ep['m_episode_id']: continue
 			area_num += 1
 			area_name = area['name']
 
-			self.ex.write_area(area)
+			write_area(area)
 			self.story_cycle(area, ep)
 
 	def start_cycle(self, tp='event'):
 		event_types = [1, 15]
 		story = self.db.event if tp == 'event' else self.db.episode 
 		for ep in story:
-			if not ep['event_type'] in event_types: continue
+			ep['episode'] = False
+			if not ep[f'{tp}_type'] in event_types: continue
+			if not 'm_episode_id' in ep:
+				ep['m_episode_id'] = ep['id']
+				ep['event_type'] = ep['episode_type']
+				ep['episode'] = True
+
+			ename = ep['resource_name'] if tp == 'event' else ep['name']
+			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ename}"
+			if not self.ex.set_sheet(sheet_name) and not DEBUG: continue
+			self.area_cycle(ep)
+			self.ex.save()
+
+		self.ex.save()
+
+	def start_campaign_cycle(self, tp='event'):
+		event_types = [1]
+		story = self.db.event if tp == 'event' else self.db.episode 
+		for ep in story:
+			if not ep[f'{tp}_type'] in event_types: continue
 			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name']}"
 
 			if not self.ex.set_sheet(sheet_name) and not DEBUG: continue
@@ -265,5 +346,7 @@ class DialogueReverse():
 if __name__ == '__main__':
 	# Extract Story Events
 	# DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
+	# Extract Campaign Story
+	DialogueExtractor(file='story.xlsx', jp=True, tp='episode')
 	# Extract Raids prologue-ending
-	DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
+	# DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')

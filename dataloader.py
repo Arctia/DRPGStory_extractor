@@ -8,17 +8,16 @@ class DataLoader():
 	def __init__(self, jp=True):
 		if jp: 
 			self._init_jp()
-		else:
-			self._init_en()
+		self._init_en()
 
 	def _init_en(self):
-		self.story = self.load_en_json("Story")
-		self.story_talk = self.load_en_json("StoryTalk")
-		self.story_character = self.load_en_json("StoryCharacter")
+		self.story_en = self.load_en_json("Story")
+		self.story_talk_en = self.load_en_json("StoryTalk")
+		self.story_character_en = self.load_en_json("StoryCharacter")
 
-		self.area = self.load_en_json("Area")
-		self.episode = self.load_en_json("Episode")
-		self.event = self.load_en_json("Event")
+		self.area_en = self.load_en_json("Area")
+		self.episode_en = self.load_en_json("Episode")
+		self.event_en = self.load_en_json("Event")
 
 	def _init_jp(self):
 		self.story = self.load_jp_json("story")
