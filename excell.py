@@ -4,6 +4,13 @@ import openpyxl, json, time, os
 
 DEBUG = False
 
+sheet_folder = "Sheets/"
+FILES = {
+	"events": os.path.join(sheet_folder, "events.xlsx"),
+	"story": os.path.join(sheet_folder, "campaigns.xlsx"),
+	"raids": os.path.join(sheet_folder, "raids.xlsx")
+}
+
 class Translate():
 
 	def __init__(self):
@@ -39,8 +46,17 @@ class Excell():
 	def __init__(self, filename):
 		self.translator = Translate()
 		self.filename = filename
+		self.check_file(filename)
 		self.file = openpyxl.load_workbook(filename)
 		self.sheets = self.file.sheetnames
+
+	def check_file(self, filename):
+		if not os.path.exists(sheet_folder):
+			os.makedirs(sheet_folder)
+		if not os.path.exists(filename):
+			file = openpyxl.Workbook()
+			file.save(filename)
+			file.close()
 
 	def set_sheet(self, sheet_name):
 		if not sheet_name in self.sheets:
@@ -66,7 +82,7 @@ class Excell():
 			self.selected_sheet = self.file[sheet_name]
 			self.selected_sheet.title = sheet_name
 			self.reinit_sheet()
-			print(self.selected_sheet.title)
+			# print(self.selected_sheet.title)
 			return False
 
 	def set_value(self, row:str, col:int, value:str):
@@ -220,6 +236,9 @@ class DialogueExtractor(object):
 			if t[o] != "":
 				return t[o]
 
+	def is_episode(self, ep:dict) -> bool:
+		return True if ep.get('episode', False) else False
+
 	def	story_talk_cycle(self, story):
 		count = 0
 		for talk in self.db.story_talk:
@@ -249,9 +268,11 @@ class DialogueExtractor(object):
 
 		for story in self.db.story:
 			divider = 100 if ep['event_type'] == 1 else 10
-			if ep['episode']: divider = 10
-			if int(story['id'] / divider) != area['id']: continue
-
+			if self.is_episode(ep):
+				if (int(story['id'] / 100) != area['m_episode_id']): continue
+				if str(story['id'])[-2] != str(area['id'])[-1]: continue
+			else:
+				if int(story['id'] / divider) != area['id']: continue
 			write_story(story)
 			self.story_talk_cycle(story)
 			self.ex.row_pos += 1
@@ -293,20 +314,6 @@ class DialogueExtractor(object):
 
 		self.ex.save()
 
-	def start_campaign_cycle(self, tp='event'):
-		event_types = [1]
-		story = self.db.event if tp == 'event' else self.db.episode 
-		for ep in story:
-			if not ep[f'{tp}_type'] in event_types: continue
-			sheet_name = f"{str(ep['id']).rjust(3, '0')}. {ep['resource_name']}"
-
-			if not self.ex.set_sheet(sheet_name) and not DEBUG: continue
-				
-			self.area_cycle(ep)
-			self.ex.save()
-
-		self.ex.save()
-
 	def raid_story_cycle(self, ep) -> None:
 		for story in self.db.story:
 			if story['id'] != ep['prologue_story_id'] and story['id'] != ep['ending_story_id']: continue
@@ -343,9 +350,9 @@ class DialogueReverse():
 
 
 if __name__ == '__main__':
-	# Extract Story Events
-	# DialogueExtractor(file='japan.xlsx', jp=True, tp='event')
 	# Extract Campaign Story
-	DialogueExtractor(file='story.xlsx', jp=True, tp='episode')
+	DialogueExtractor(file=FILES['story'], jp=True, tp='episode')
+	# Extract Story Events
+	DialogueExtractor(file=FILES['events'], jp=True, tp='event')
 	# Extract Raids prologue-ending
-	# DialogueExtractor(file='japan_raids.xlsx', jp=True, tp='raid')
+	DialogueExtractor(file=FILES['raids'], jp=True, tp='raid')

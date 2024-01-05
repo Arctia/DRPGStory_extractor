@@ -4,6 +4,23 @@ import json
 
 TO_DECRYPT = ['area', 'event', 'story', 'storytalk', 'storycharacter', 'episode']
 
+
+def check_files() -> bool:
+	for folder in ["masters", "master_json"]:
+		if not os.path.exists(folder):
+			os.makedirs(folder)
+
+	for file in TO_DECRYPT:
+		if not os.path.exists(os.path.join("masters", file)):
+			print("Missing Master files in folder <masters>. Required files:\n")
+			for file in TO_DECRYPT:
+				print(file)
+			print("\nyou should extract them from the game datas")
+			return False
+
+	return True
+
+
 def unpack_all_assets(source_folder : str, destination_folder : str):
 	for root, dirs, files in os.walk(source_folder):
 		for file_name in files:
@@ -35,4 +52,5 @@ def unpack_all_assets(source_folder : str, destination_folder : str):
 							data.save(raw_data = f.read())
 
 if __name__ == '__main__':
-	unpack_all_assets("./masters/", "./master_json/")
+	if check_files():
+		unpack_all_assets("./masters/", "./master_json/")
