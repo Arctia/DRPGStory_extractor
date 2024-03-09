@@ -6,3 +6,4 @@ DiaryEvents/
 
 __pycache__/
 Backup/
+StoryFiles/master_json/*.json
