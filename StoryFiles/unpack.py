@@ -4,6 +4,7 @@ import json
 
 TO_DECRYPT = ['area', 'event', 'story', 'storytalk', 'storycharacter', 'episode']
 
+master_folder = "/media/arctia/C46035B66035B052/Users/arctia/AppData/LocalLow/disgaearpg/DisgaeaRPG/assetbundle/masters/"
 
 def check_files() -> bool:
 	for folder in ["masters", "master_json"]:
@@ -11,7 +12,7 @@ def check_files() -> bool:
 			os.makedirs(folder)
 
 	for file in TO_DECRYPT:
-		if not os.path.exists(os.path.join("masters", file)):
+		if not os.path.exists(os.path.join(master_folder, file)):
 			print("Missing Master files in folder <masters>. Required files:\n")
 			for file in TO_DECRYPT:
 				print(file)
@@ -53,4 +54,4 @@ def unpack_all_assets(source_folder : str, destination_folder : str):
 
 if __name__ == '__main__':
 	if check_files():
-		unpack_all_assets("./masters/", "./master_json/")
+		unpack_all_assets(master_folder, "./master_json/")

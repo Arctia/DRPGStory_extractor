@@ -3381,6 +3381,156 @@
             "close_at": ""
         },
         {
+            "id": 15711,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "アオ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15751,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "新春スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15761,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ソウル・ブレイブ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15762,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "ソウル・ブレイブ(裏面)",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15771,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "魔王アルティナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15811,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "NIS・歴代SRPGコラボ復刻記念スペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15821,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "怒気弩鬼！魔と青春のバレンタイン",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15822,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "怒気弩鬼！魔と青春のバレンタインEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15871,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15881,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "パティシエベリル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15921,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "試闘の間 超魔王エトナ",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15931,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "バレンタインスペシャルバトル",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15941,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "エトナの避暑地　防衛戦",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15991,
+            "episode_type": 4,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "再来の極悪魔女と夜会の大魔女たち",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
+            "id": 15992,
+            "episode_type": 6,
+            "no": 1,
+            "series": 0,
+            "m_main_story_category_id": 0,
+            "name": "再来の極悪魔女と夜会の大魔女たちEXTRA",
+            "open_at": "",
+            "close_at": ""
+        },
+        {
             "id": 20011,
             "episode_type": 5,
             "no": 1,

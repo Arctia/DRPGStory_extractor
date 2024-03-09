@@ -12912,6 +12912,650 @@
             "img_face": 0
         },
         {
+            "id": 52101,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52102,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52103,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52104,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52105,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52106,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 52107,
+            "name": "【イベント】さわやかさったん",
+            "img_base": 521,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 52201,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52202,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52203,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52204,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52205,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52206,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 52207,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 52208,
+            "name": "【イベント】制服アルティナ",
+            "img_base": 522,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 52301,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52302,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52303,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52304,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52305,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52306,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 52307,
+            "name": "【イベント】制服セラフィーヌ",
+            "img_base": 523,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 52401,
+            "name": "【イベント】制服メロディア",
+            "img_base": 524,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52402,
+            "name": "【イベント】制服メロディア",
+            "img_base": 524,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52403,
+            "name": "【イベント】制服メロディア",
+            "img_base": 524,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52404,
+            "name": "【イベント】制服メロディア",
+            "img_base": 524,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52405,
+            "name": "【イベント】制服メロディア",
+            "img_base": 524,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52406,
+            "name": "【イベント】制服メロディア",
+            "img_base": 524,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 52501,
+            "name": "【イベント】パティシエベリル",
+            "img_base": 525,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52502,
+            "name": "【イベント】パティシエベリル",
+            "img_base": 525,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52503,
+            "name": "【イベント】パティシエベリル",
+            "img_base": 525,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52504,
+            "name": "【イベント】パティシエベリル",
+            "img_base": 525,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52505,
+            "name": "【イベント】パティシエベリル",
+            "img_base": 525,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52506,
+            "name": "【イベント】パティシエベリル",
+            "img_base": 525,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 52601,
+            "name": "【イベント】猫娘族",
+            "img_base": 526,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52602,
+            "name": "【イベント】猫娘族",
+            "img_base": 526,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52603,
+            "name": "【イベント】猫娘族",
+            "img_base": 526,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52604,
+            "name": "【イベント】猫娘族",
+            "img_base": 526,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52605,
+            "name": "【イベント】猫娘族",
+            "img_base": 526,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52701,
+            "name": "【イベント】魔法使い女",
+            "img_base": 527,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52702,
+            "name": "【イベント】魔法使い女",
+            "img_base": 527,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 52703,
+            "name": "【イベント】魔法使い女",
+            "img_base": 527,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 52704,
+            "name": "【イベント】魔法使い女",
+            "img_base": 527,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 52705,
+            "name": "【イベント】魔法使い女",
+            "img_base": 527,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 52706,
+            "name": "【イベント】魔法使い女",
+            "img_base": 527,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 52801,
+            "name": "【イベント】制服セラフィーヌ＆制服アルティナ",
+            "img_base": 528,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 52901,
+            "name": "【イベント】さわやかさったん＆にゃんだもん",
+            "img_base": 529,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53001,
+            "name": "【イベント】制服セラフィーヌ・制服メロディア・制服アルティナ",
+            "img_base": 530,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53101,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53102,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 53103,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 53104,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 53105,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 53106,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 53107,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 53108,
+            "name": "【イベント】バレンタインフロン",
+            "img_base": 531,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 53201,
+            "name": "【イベント】沼プリニー",
+            "img_base": 532,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53202,
+            "name": "【イベント】沼プリニー",
+            "img_base": 532,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 53203,
+            "name": "【イベント】沼プリニー",
+            "img_base": 532,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 53301,
+            "name": "【イベント】マーリカ",
+            "img_base": 533,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53302,
+            "name": "【イベント】マーリカ",
+            "img_base": 533,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 53303,
+            "name": "【イベント】マーリカ",
+            "img_base": 533,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 53304,
+            "name": "【イベント】マーリカ",
+            "img_base": 533,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 53305,
+            "name": "【イベント】マーリカ",
+            "img_base": 533,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 53306,
+            "name": "【イベント】マーリカ",
+            "img_base": 533,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 53401,
+            "name": "【イベント】ラビィ",
+            "img_base": 534,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53402,
+            "name": "【イベント】ラビィ",
+            "img_base": 534,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 53403,
+            "name": "【イベント】ラビィ",
+            "img_base": 534,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 53404,
+            "name": "【イベント】ラビィ",
+            "img_base": 534,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 53405,
+            "name": "【イベント】ラビィ",
+            "img_base": 534,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 53406,
+            "name": "【イベント】ラビィ",
+            "img_base": 534,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 53501,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53502,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 53503,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 53504,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 53505,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 53506,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 53507,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
+            "id": 53508,
+            "name": "【イベント】ヴァレンティーヌ",
+            "img_base": 535,
+            "img_body": 8,
+            "img_face": 0
+        },
+        {
+            "id": 53601,
+            "name": "【イベント】魔女式覚醒ロザリンド",
+            "img_base": 536,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53602,
+            "name": "【イベント】魔女式覚醒ロザリンド",
+            "img_base": 536,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 53603,
+            "name": "【イベント】魔女式覚醒ロザリンド",
+            "img_base": 536,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 53701,
+            "name": "【イベント】大量のサキュバス",
+            "img_base": 537,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53801,
+            "name": "【イベント】アデル＆ラビィ",
+            "img_base": 538,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 53901,
+            "name": "【イベント】ラハール＆メタリカ",
+            "img_base": 539,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 54001,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 1,
+            "img_face": 0
+        },
+        {
+            "id": 54002,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 2,
+            "img_face": 0
+        },
+        {
+            "id": 54003,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 3,
+            "img_face": 0
+        },
+        {
+            "id": 54004,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 4,
+            "img_face": 0
+        },
+        {
+            "id": 54005,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 5,
+            "img_face": 0
+        },
+        {
+            "id": 54006,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 6,
+            "img_face": 0
+        },
+        {
+            "id": 54007,
+            "name": "【イベント】魔神式メタリカ",
+            "img_base": 540,
+            "img_body": 7,
+            "img_face": 0
+        },
+        {
             "id": 100101,
             "name": "【ダイジェスト】D1ラハール表情01",
             "img_base": 1001,
