@@ -1,0 +1,3 @@
+unitypy
+deep_translator
+openpyxl
