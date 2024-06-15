@@ -4,7 +4,7 @@ import openpyxl, json, time, os
 
 DEBUG = False
 
-sheet_folder = "Sheets\\"
+sheet_folder = "Sheets"
 FILES = {
 	"events": os.path.join(sheet_folder, "events.xlsx"),
 	"story": os.path.join(sheet_folder, "campaigns.xlsx"),
@@ -240,7 +240,6 @@ class DialogueExtractor(object):
 		return True if ep.get('episode', False) else False
 
 	def	story_talk_cycle(self, story):
-		count = 0
 		for talk in self.db.story_talk:
 			to_translate = True
 			if talk['m_story_id'] != story['id']: continue
@@ -351,7 +350,7 @@ class DialogueReverse():
 
 if __name__ == '__main__':
 	# Extract Campaign Story
-	# DialogueExtractor(file=FILES['story'], jp=True, tp='episode')
+	DialogueExtractor(file=FILES['story'], jp=True, tp='episode')
 	# Extract Story Events
 	DialogueExtractor(file=FILES['events'], jp=True, tp='event')
 	# Extract Raids prologue-ending
